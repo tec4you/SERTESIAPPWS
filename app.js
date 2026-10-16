@@ -1,5 +1,4 @@
 // Import Express.js
-npm install express
 const express = require('express');
 
 // Create an Express app
